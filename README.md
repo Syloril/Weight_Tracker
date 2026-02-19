@@ -1,6 +1,6 @@
 # Weight Tracker (Android Application)
 
-![Enhanced Features Demo](assets/App_showcase.gif)
+![Enhanced Features Demo](App_showcase.gif)
 
 ## Description
 This Android application, built using Kotlin, allows users to track their weight progress over time. The original version focused on basic UI and manual logging. The enhanced version introduces user authentication, persistent data storage, and automated notifications to improve user retention and data security.
