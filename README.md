@@ -1,7 +1,7 @@
 # Weight Tracker (Android Application)
 
 <p align="center">
-  <img src="assets/App_showcase.gif" width="250" alt="Enhanced Weight Tracker">
+  <img src="App_showcase.gif" width="250" alt="Enhanced Weight Tracker">
 </p>
 
 ## Description
